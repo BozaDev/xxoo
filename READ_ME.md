@@ -1,4 +1,4 @@
-This development job is created by BozaDev.
+This development job is done by BozaDev.
 
 It is free to use.
 
